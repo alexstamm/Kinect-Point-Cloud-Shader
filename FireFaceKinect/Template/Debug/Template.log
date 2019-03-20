@@ -1,0 +1,21 @@
+﻿  LoadTexture.cpp
+  LoadMesh.cpp
+  InitShader.cpp
+  imgui_impl_glut.cpp
+  imgui_draw.cpp
+  imgui_demo.cpp
+  imgui.cpp
+  Imgui demo.cpp
+y:\workspace\stamm\school\cgt521\fireface3.0\cgt521\template\imgui demo.cpp(106): warning C4800: 'IMultiSourceFrameReader *': forcing value to bool 'true' or 'false' (performance warning)
+y:\workspace\stamm\school\cgt521\fireface3.0\cgt521\template\imgui demo.cpp(130): warning C4018: '<': signed/unsigned mismatch
+y:\workspace\stamm\school\cgt521\fireface3.0\cgt521\template\imgui demo.cpp(165): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+y:\workspace\stamm\school\cgt521\fireface3.0\cgt521\template\imgui demo.cpp(166): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+y:\workspace\stamm\school\cgt521\fireface3.0\cgt521\template\imgui demo.cpp(167): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+y:\workspace\stamm\school\cgt521\fireface3.0\cgt521\template\imgui demo.cpp(511): warning C4305: '+=': truncation from 'double' to 'float'
+y:\workspace\stamm\school\cgt521\fireface3.0\cgt521\template\imgui demo.cpp(515): warning C4305: '-=': truncation from 'double' to 'float'
+y:\workspace\stamm\school\cgt521\fireface3.0\cgt521\template\imgui demo.cpp(519): warning C4305: '-=': truncation from 'double' to 'float'
+y:\workspace\stamm\school\cgt521\fireface3.0\cgt521\template\imgui demo.cpp(523): warning C4305: '+=': truncation from 'double' to 'float'
+  Generating Code...
+  Template.vcxproj -> Y:\Workspace\stamm\School\CGT521\FireFace3.0\CGT521\Debug\Template.exe
+  Template.vcxproj -> Y:\Workspace\stamm\School\CGT521\FireFace3.0\CGT521\Debug\Template.pdb (Full PDB)
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(326,5): error MSB3374: The last access/last write time on file "Debug\Template.tlog\Template.lastbuildstate" cannot be set. Access to the path 'Debug\Template.tlog\Template.lastbuildstate' is denied.

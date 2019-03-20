@@ -1,0 +1,110 @@
+﻿Imgui demo.obj : error LNK2019: unresolved external symbol __imp_glewInit referenced in function "void __cdecl initOpenGl(void)" (?initOpenGl@@YAXXZ)
+Imgui demo.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowPosition referenced in function main
+Imgui demo.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowSize referenced in function main
+Imgui demo.obj : error LNK2019: unresolved external symbol __imp_glutInitDisplayMode referenced in function main
+Imgui demo.obj : error LNK2019: unresolved external symbol __imp_glutMainLoop referenced in function main
+Imgui demo.obj : error LNK2019: unresolved external symbol __imp_glutDestroyWindow referenced in function main
+Imgui demo.obj : error LNK2019: unresolved external symbol __imp_glutPostRedisplay referenced in function "void __cdecl idle(void)" (?idle@@YAXXZ)
+Imgui demo.obj : error LNK2019: unresolved external symbol __imp_glutSwapBuffers referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+Imgui demo.obj : error LNK2019: unresolved external symbol __imp_glutIdleFunc referenced in function main
+Imgui demo.obj : error LNK2019: unresolved external symbol __imp_glutKeyboardFunc referenced in function main
+Imgui demo.obj : error LNK2019: unresolved external symbol __imp_glutSpecialFunc referenced in function main
+Imgui demo.obj : error LNK2019: unresolved external symbol __imp_glutDisplayFunc referenced in function main
+Imgui demo.obj : error LNK2019: unresolved external symbol __imp_glutMouseFunc referenced in function main
+Imgui demo.obj : error LNK2019: unresolved external symbol __imp_glutMotionFunc referenced in function main
+Imgui demo.obj : error LNK2019: unresolved external symbol __imp_glutPassiveMotionFunc referenced in function main
+Imgui demo.obj : error LNK2019: unresolved external symbol __imp_glutKeyboardUpFunc referenced in function main
+Imgui demo.obj : error LNK2019: unresolved external symbol __imp_glutSpecialUpFunc referenced in function main
+Imgui demo.obj : error LNK2019: unresolved external symbol __imp_glutGet referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+imgui_impl_glut.obj : error LNK2001: unresolved external symbol __imp_glutGet
+Imgui demo.obj : error LNK2019: unresolved external symbol __imp___glutInitWithExit referenced in function glutInit_ATEXIT_HACK
+Imgui demo.obj : error LNK2019: unresolved external symbol __imp___glutCreateWindowWithExit referenced in function glutCreateWindow_ATEXIT_HACK
+Imgui demo.obj : error LNK2001: unresolved external symbol __imp___glewActiveTexture
+imgui_impl_glut.obj : error LNK2001: unresolved external symbol __imp___glewActiveTexture
+Imgui demo.obj : error LNK2001: unresolved external symbol __imp___glewBindBuffer
+imgui_impl_glut.obj : error LNK2001: unresolved external symbol __imp___glewBindBuffer
+LoadMesh.obj : error LNK2001: unresolved external symbol __imp___glewBindBuffer
+Imgui demo.obj : error LNK2001: unresolved external symbol __imp___glewBufferData
+imgui_impl_glut.obj : error LNK2001: unresolved external symbol __imp___glewBufferData
+LoadMesh.obj : error LNK2001: unresolved external symbol __imp___glewBufferData
+Imgui demo.obj : error LNK2001: unresolved external symbol __imp___glewGenBuffers
+imgui_impl_glut.obj : error LNK2001: unresolved external symbol __imp___glewGenBuffers
+LoadMesh.obj : error LNK2001: unresolved external symbol __imp___glewGenBuffers
+Imgui demo.obj : error LNK2001: unresolved external symbol __imp___glewDeleteProgram
+imgui_impl_glut.obj : error LNK2001: unresolved external symbol __imp___glewDeleteProgram
+Imgui demo.obj : error LNK2001: unresolved external symbol __imp___glewEnableVertexAttribArray
+imgui_impl_glut.obj : error LNK2001: unresolved external symbol __imp___glewEnableVertexAttribArray
+LoadMesh.obj : error LNK2001: unresolved external symbol __imp___glewEnableVertexAttribArray
+Imgui demo.obj : error LNK2001: unresolved external symbol __imp___glewGetAttribLocation
+imgui_impl_glut.obj : error LNK2001: unresolved external symbol __imp___glewGetAttribLocation
+LoadMesh.obj : error LNK2001: unresolved external symbol __imp___glewGetAttribLocation
+Imgui demo.obj : error LNK2001: unresolved external symbol __imp___glewGetUniformLocation
+imgui_impl_glut.obj : error LNK2001: unresolved external symbol __imp___glewGetUniformLocation
+Imgui demo.obj : error LNK2001: unresolved external symbol __imp___glewUniform1i
+imgui_impl_glut.obj : error LNK2001: unresolved external symbol __imp___glewUniform1i
+Imgui demo.obj : error LNK2001: unresolved external symbol __imp___glewUniform4fv
+Imgui demo.obj : error LNK2001: unresolved external symbol __imp___glewUniformMatrix4fv
+imgui_impl_glut.obj : error LNK2001: unresolved external symbol __imp___glewUniformMatrix4fv
+Imgui demo.obj : error LNK2001: unresolved external symbol __imp___glewUseProgram
+imgui_impl_glut.obj : error LNK2001: unresolved external symbol __imp___glewUseProgram
+InitShader.obj : error LNK2001: unresolved external symbol __imp___glewUseProgram
+Imgui demo.obj : error LNK2001: unresolved external symbol __imp___glewVertexAttribPointer
+imgui_impl_glut.obj : error LNK2001: unresolved external symbol __imp___glewVertexAttribPointer
+LoadMesh.obj : error LNK2001: unresolved external symbol __imp___glewVertexAttribPointer
+Imgui demo.obj : error LNK2001: unresolved external symbol __imp___glewBindFramebuffer
+Imgui demo.obj : error LNK2001: unresolved external symbol __imp___glewBindRenderbuffer
+Imgui demo.obj : error LNK2001: unresolved external symbol __imp___glewCheckFramebufferStatus
+Imgui demo.obj : error LNK2001: unresolved external symbol __imp___glewFramebufferRenderbuffer
+Imgui demo.obj : error LNK2001: unresolved external symbol __imp___glewFramebufferTexture2D
+Imgui demo.obj : error LNK2001: unresolved external symbol __imp___glewGenFramebuffers
+Imgui demo.obj : error LNK2001: unresolved external symbol __imp___glewGenRenderbuffers
+Imgui demo.obj : error LNK2001: unresolved external symbol __imp___glewRenderbufferStorage
+Imgui demo.obj : error LNK2001: unresolved external symbol __imp___glewBindVertexArray
+imgui_impl_glut.obj : error LNK2001: unresolved external symbol __imp___glewBindVertexArray
+LoadMesh.obj : error LNK2001: unresolved external symbol __imp___glewBindVertexArray
+Imgui demo.obj : error LNK2001: unresolved external symbol __imp___glewGenVertexArrays
+imgui_impl_glut.obj : error LNK2001: unresolved external symbol __imp___glewGenVertexArrays
+LoadMesh.obj : error LNK2001: unresolved external symbol __imp___glewGenVertexArrays
+imgui_impl_glut.obj : error LNK2019: unresolved external symbol __imp_glutSetCursor referenced in function "void __cdecl ImGui_ImplGlut_NewFrame(void)" (?ImGui_ImplGlut_NewFrame@@YAXXZ)
+imgui_impl_glut.obj : error LNK2019: unresolved external symbol __imp_glutGetModifiers referenced in function "void __cdecl ImGui_ImplGlut_KeyCallback(unsigned int)" (?ImGui_ImplGlut_KeyCallback@@YAXI@Z)
+imgui_impl_glut.obj : error LNK2001: unresolved external symbol __imp___glewBlendEquation
+imgui_impl_glut.obj : error LNK2001: unresolved external symbol __imp___glewDeleteBuffers
+LoadMesh.obj : error LNK2001: unresolved external symbol __imp___glewDeleteBuffers
+imgui_impl_glut.obj : error LNK2001: unresolved external symbol __imp___glewAttachShader
+InitShader.obj : error LNK2001: unresolved external symbol __imp___glewAttachShader
+imgui_impl_glut.obj : error LNK2001: unresolved external symbol __imp___glewBlendEquationSeparate
+imgui_impl_glut.obj : error LNK2001: unresolved external symbol __imp___glewCompileShader
+InitShader.obj : error LNK2001: unresolved external symbol __imp___glewCompileShader
+imgui_impl_glut.obj : error LNK2001: unresolved external symbol __imp___glewCreateProgram
+InitShader.obj : error LNK2001: unresolved external symbol __imp___glewCreateProgram
+imgui_impl_glut.obj : error LNK2001: unresolved external symbol __imp___glewCreateShader
+InitShader.obj : error LNK2001: unresolved external symbol __imp___glewCreateShader
+imgui_impl_glut.obj : error LNK2001: unresolved external symbol __imp___glewDeleteShader
+imgui_impl_glut.obj : error LNK2001: unresolved external symbol __imp___glewDetachShader
+imgui_impl_glut.obj : error LNK2001: unresolved external symbol __imp___glewLinkProgram
+InitShader.obj : error LNK2001: unresolved external symbol __imp___glewLinkProgram
+imgui_impl_glut.obj : error LNK2001: unresolved external symbol __imp___glewShaderSource
+InitShader.obj : error LNK2001: unresolved external symbol __imp___glewShaderSource
+imgui_impl_glut.obj : error LNK2001: unresolved external symbol __imp___glewDeleteVertexArrays
+LoadMesh.obj : error LNK2001: unresolved external symbol __imp___glewDeleteVertexArrays
+InitShader.obj : error LNK2001: unresolved external symbol __imp___glewGetProgramInfoLog
+InitShader.obj : error LNK2001: unresolved external symbol __imp___glewGetProgramiv
+InitShader.obj : error LNK2001: unresolved external symbol __imp___glewGetShaderInfoLog
+InitShader.obj : error LNK2001: unresolved external symbol __imp___glewGetShaderiv
+LoadMesh.obj : error LNK2019: unresolved external symbol "public: __cdecl Assimp::Importer::Importer(void)" (??0Importer@Assimp@@QEAA@XZ) referenced in function "void __cdecl `dynamic initializer for 'importer''(void)" (??__Eimporter@@YAXXZ)
+LoadMesh.obj : error LNK2019: unresolved external symbol "public: __cdecl Assimp::Importer::~Importer(void)" (??1Importer@Assimp@@QEAA@XZ) referenced in function "void __cdecl `dynamic atexit destructor for 'importer''(void)" (??__Fimporter@@YAXXZ)
+LoadMesh.obj : error LNK2019: unresolved external symbol "public: struct aiScene const * __cdecl Assimp::Importer::ReadFile(char const *,unsigned int)" (?ReadFile@Importer@Assimp@@QEAAPEBUaiScene@@PEBDI@Z) referenced in function "public: struct aiScene const * __cdecl Assimp::Importer::ReadFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,unsigned int)" (?ReadFile@Importer@Assimp@@QEAAPEBUaiScene@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@I@Z)
+LoadMesh.obj : error LNK2019: unresolved external symbol "public: char const * __cdecl Assimp::Importer::GetErrorString(void)const " (?GetErrorString@Importer@Assimp@@QEBAPEBDXZ) referenced in function "struct MeshData __cdecl LoadMesh(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?LoadMesh@@YA?AUMeshData@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+LoadTexture.obj : error LNK2019: unresolved external symbol __imp_FreeImage_Unload referenced in function "unsigned int __cdecl LoadTexture(char const *)" (?LoadTexture@@YAIPEBD@Z)
+LoadTexture.obj : error LNK2019: unresolved external symbol __imp_FreeImage_Load referenced in function "unsigned int __cdecl LoadTexture(char const *)" (?LoadTexture@@YAIPEBD@Z)
+LoadTexture.obj : error LNK2019: unresolved external symbol __imp_FreeImage_GetFileType referenced in function "unsigned int __cdecl LoadTexture(char const *)" (?LoadTexture@@YAIPEBD@Z)
+LoadTexture.obj : error LNK2019: unresolved external symbol __imp_FreeImage_GetWidth referenced in function "unsigned int __cdecl LoadTexture(char const *)" (?LoadTexture@@YAIPEBD@Z)
+LoadTexture.obj : error LNK2019: unresolved external symbol __imp_FreeImage_GetHeight referenced in function "unsigned int __cdecl LoadTexture(char const *)" (?LoadTexture@@YAIPEBD@Z)
+LoadTexture.obj : error LNK2019: unresolved external symbol __imp_FreeImage_GetPitch referenced in function "unsigned int __cdecl LoadTexture(char const *)" (?LoadTexture@@YAIPEBD@Z)
+LoadTexture.obj : error LNK2019: unresolved external symbol __imp_FreeImage_ConvertTo32Bits referenced in function "unsigned int __cdecl LoadTexture(char const *)" (?LoadTexture@@YAIPEBD@Z)
+LoadTexture.obj : error LNK2019: unresolved external symbol __imp_FreeImage_ConvertToRawBits referenced in function "unsigned int __cdecl LoadTexture(char const *)" (?LoadTexture@@YAIPEBD@Z)
+C:\Temp\stamm\FireFace1.0\CGT521\Template\lib\assimp.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+C:\Temp\stamm\FireFace1.0\CGT521\Template\lib\freeglut.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+C:\Temp\stamm\FireFace1.0\CGT521\Template\lib\FreeImage.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+C:\Temp\stamm\FireFace1.0\CGT521\Template\lib\glew32.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+C:\Temp\stamm\FireFace1.0\CGT521\x64\Debug\Template.exe : fatal error LNK1120: 73 unresolved externals
